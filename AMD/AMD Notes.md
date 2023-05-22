@@ -6,6 +6,7 @@
 
 <aside>
 💡 Infrastructure Automation with Puppet
+
 Q. ABC Company is a large-scale IT organization managing hundreds of servers spread across multiple data centers. They want to automate their infrastructure management to ensure consistent and reliable configurations. They have decided to use Puppet as their automation tool. Describe how Puppet can be applied in this scenario.
 
 </aside>
