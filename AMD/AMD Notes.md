@@ -27,6 +27,7 @@ Overall, Puppet simplifies and streamlines infrastructure management, making it 
 
 <aside>
 💡 Puppet Module Development
+  
 Q. XYZ Corporation is migrating their web application to a new server infrastructure. They need to configure and manage various components, such as the web server, database server, and load balancer. As a Puppet developer, explain how you would create Puppet modules to manage these components efficiently.
 
 </aside>
@@ -46,6 +47,7 @@ Creating Puppet modules in this way enables XYZ Corporation to easily manage and
 
 <aside>
 💡 Puppet Environment Deployment
+  
 Q. PQR Enterprises operates multiple environments (development, staging, and production) for their web application. They want to ensure that configurations in each environment remain isolated and can be easily replicated. How can Puppet environments be utilized to achieve this goal? Provide an example of how Puppet environments can be configured and managed in this scenario.
 
 </aside>
@@ -64,6 +66,7 @@ By leveraging Puppet environments in this way, PQR Enterprises can maintain sepa
 
 <aside>
 💡 Node Classification and Puppet Classes
+  
 Q. MNO Corporation is an e-commerce company with a complex infrastructure that includes web servers, application servers, and database servers. They want to apply different configuration sets to these different server types. Describe how node classification and Puppet classes can be used to define and manage the configuration for each server type in this scenario.
 
 </aside>
@@ -83,6 +86,7 @@ By applying node classification and Puppet classes, MNO Corporation can efficien
 
 <aside>
 💡 Puppet Template Usage
+  
 Q. EFG Corporation wants to generate dynamic configuration files for their web servers based on specific variables such as the server's IP address, domain name, and port number. Explain how Puppet templates can be utilized to achieve this dynamic configuration file generation and how it can benefit EFG Corporation's infrastructure management.
 
 </aside>
@@ -101,6 +105,7 @@ By using Puppet templates, EFG Corporation can generate configuration files cust
 
 <aside>
 💡 Puppet Architecture and Scalability
+  
 Q. GHI Corporation is a rapidly growing company that needs to scale its infrastructure to accommodate increased demand. They have chosen Puppet as their configuration management tool but are concerned about its scalability. Discuss Puppet's architecture and how it can handle large-scale infrastructure deployments effectively. Provide examples of techniques and best practices for scaling Puppet in this scenario.
 
 </aside>
